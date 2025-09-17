@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: Varela Round, sans-serif;
 }
 
 body {
@@ -16,7 +17,7 @@ body {
     padding: 2rem;
     border-radius: 1rem;
     min-height: 45vh;
-    width: 40vh;
+    width: 60vh;
 }
 
 form {
